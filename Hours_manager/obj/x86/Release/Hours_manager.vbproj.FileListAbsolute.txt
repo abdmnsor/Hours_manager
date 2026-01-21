@@ -1,0 +1,9 @@
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2010\Projects\Hours_manager\Hours_manager\bin\Release\Hours_manager.exe
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2010\Projects\Hours_manager\Hours_manager\bin\Release\Hours_manager.pdb
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2010\Projects\Hours_manager\Hours_manager\bin\Release\Hours_manager.xml
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Release\Hours_manager.Form1.resources
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Release\Hours_manager.Resources.resources
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Release\Hours_manager.vbproj.GenerateResource.Cache
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Release\Hours_manager.exe
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Release\Hours_manager.xml
+C:\Users\WINDOWS 10 PRO\Documents\Visual Studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Release\Hours_manager.pdb

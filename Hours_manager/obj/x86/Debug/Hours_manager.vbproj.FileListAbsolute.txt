@@ -1,0 +1,22 @@
+c:\users\windows 10 pro\documents\visual studio 2010\Projects\Hours_manager\Hours_manager\bin\Debug\Hours_manager.exe
+c:\users\windows 10 pro\documents\visual studio 2010\Projects\Hours_manager\Hours_manager\bin\Debug\Hours_manager.pdb
+c:\users\windows 10 pro\documents\visual studio 2010\Projects\Hours_manager\Hours_manager\bin\Debug\Hours_manager.xml
+c:\users\windows 10 pro\documents\visual studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.Form1.resources
+c:\users\windows 10 pro\documents\visual studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.Resources.resources
+c:\users\windows 10 pro\documents\visual studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.vbproj.GenerateResource.Cache
+c:\users\windows 10 pro\documents\visual studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.exe
+c:\users\windows 10 pro\documents\visual studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.xml
+c:\users\windows 10 pro\documents\visual studio 2010\Projects\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.pdb
+C:\Users\Windows 10 Pro\Desktop\temp\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.exe
+C:\Users\Windows 10 Pro\Desktop\temp\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.xml
+C:\Users\Windows 10 Pro\Desktop\temp\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.pdb
+F:\Projects\Vb\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.exe
+F:\Projects\Vb\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.xml
+F:\Projects\Vb\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.pdb
+F:\Projects\Vb\Hours_manager\Hours_manager\bin\Debug\Hours_manager.exe
+F:\Projects\Vb\Hours_manager\Hours_manager\bin\Debug\Hours_manager.pdb
+F:\Projects\Vb\Hours_manager\Hours_manager\bin\Debug\Hours_manager.xml
+F:\Projects\Vb\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.vbprojResolveAssemblyReference.cache
+F:\Projects\Vb\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.Form1.resources
+F:\Projects\Vb\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.Resources.resources
+F:\Projects\Vb\Hours_manager\Hours_manager\obj\x86\Debug\Hours_manager.vbproj.GenerateResource.Cache
