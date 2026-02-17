@@ -66,7 +66,7 @@ Hours_manager/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Hours_manager.git
+   git clone https://github.com/abdmnsor/Hours_manager.git
    cd Hours_manager
    ```
 
